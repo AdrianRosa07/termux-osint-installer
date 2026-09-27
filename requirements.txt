@@ -1,0 +1,12 @@
+# Termux OSINT Installer - Requirements
+# This project uses only Python standard library modules
+# No external Python packages required
+
+# System packages needed (installed automatically by the script):
+# - python3
+# - git
+# - curl
+# - golang (for Amass)
+# - nmap
+# - libimage-exiftool-perl (ExifTool)
+# - pip (Python package manager)
