@@ -30,7 +30,7 @@ from dataclasses import dataclass, field, asdict
 from enum import Enum
 
 # ─── Constants ──────────────────────────────────────────────────────────────
-SCRIPT_VERSION = "1.0.0"
+SCRIPT_VERSION = "1.1.0"
 DEFAULT_INSTALL_DIR = Path.home() / "osint-tools"
 DEFAULT_LOG_DIR = Path.home() / "osint-installer-logs"
 STATE_FILE = Path.home() / ".osint_installer_state.json"
